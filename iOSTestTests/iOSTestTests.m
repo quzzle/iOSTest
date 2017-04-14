@@ -1,6 +1,6 @@
 //
-//  Test2Tests.m
-//  Test2Tests
+//  iOSTestTests.m
+//  iOSTestTests
 //
 //  Created by zll on 2017/4/14.
 //  Copyright © 2017年 zll. All rights reserved.
@@ -8,11 +8,11 @@
 
 #import <XCTest/XCTest.h>
 
-@interface Test2Tests : XCTestCase
+@interface iOSTestTests : XCTestCase
 
 @end
 
-@implementation Test2Tests
+@implementation iOSTestTests
 
 - (void)setUp {
     [super setUp];

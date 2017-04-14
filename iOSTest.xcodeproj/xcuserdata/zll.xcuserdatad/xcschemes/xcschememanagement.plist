@@ -4,7 +4,7 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>Test2.xcscheme</key>
+		<key>iOSTest.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>0</integer>
@@ -12,17 +12,17 @@
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
-		<key>547CDAE01EA0861C00682888</key>
+		<key>547CDB1F1EA08D1300682888</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>547CDAF91EA0861C00682888</key>
+		<key>547CDB381EA08D1300682888</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>547CDB041EA0861C00682888</key>
+		<key>547CDB431EA08D1300682888</key>
 		<dict>
 			<key>primary</key>
 			<true/>

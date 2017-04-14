@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "547CDAE01EA0861C00682888"
-               BuildableName = "Test2.app"
-               BlueprintName = "Test2"
-               ReferencedContainer = "container:Test2.xcodeproj">
+               BlueprintIdentifier = "547CDB1F1EA08D1300682888"
+               BuildableName = "iOSTest.app"
+               BlueprintName = "iOSTest"
+               ReferencedContainer = "container:iOSTest.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -32,30 +32,30 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "547CDAF91EA0861C00682888"
-               BuildableName = "Test2Tests.xctest"
-               BlueprintName = "Test2Tests"
-               ReferencedContainer = "container:Test2.xcodeproj">
+               BlueprintIdentifier = "547CDB381EA08D1300682888"
+               BuildableName = "iOSTestTests.xctest"
+               BlueprintName = "iOSTestTests"
+               ReferencedContainer = "container:iOSTest.xcodeproj">
             </BuildableReference>
          </TestableReference>
          <TestableReference
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "547CDB041EA0861C00682888"
-               BuildableName = "Test2UITests.xctest"
-               BlueprintName = "Test2UITests"
-               ReferencedContainer = "container:Test2.xcodeproj">
+               BlueprintIdentifier = "547CDB431EA08D1300682888"
+               BuildableName = "iOSTestUITests.xctest"
+               BlueprintName = "iOSTestUITests"
+               ReferencedContainer = "container:iOSTest.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "547CDAE01EA0861C00682888"
-            BuildableName = "Test2.app"
-            BlueprintName = "Test2"
-            ReferencedContainer = "container:Test2.xcodeproj">
+            BlueprintIdentifier = "547CDB1F1EA08D1300682888"
+            BuildableName = "iOSTest.app"
+            BlueprintName = "iOSTest"
+            ReferencedContainer = "container:iOSTest.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -75,10 +75,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "547CDAE01EA0861C00682888"
-            BuildableName = "Test2.app"
-            BlueprintName = "Test2"
-            ReferencedContainer = "container:Test2.xcodeproj">
+            BlueprintIdentifier = "547CDB1F1EA08D1300682888"
+            BuildableName = "iOSTest.app"
+            BlueprintName = "iOSTest"
+            ReferencedContainer = "container:iOSTest.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -94,10 +94,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "547CDAE01EA0861C00682888"
-            BuildableName = "Test2.app"
-            BlueprintName = "Test2"
-            ReferencedContainer = "container:Test2.xcodeproj">
+            BlueprintIdentifier = "547CDB1F1EA08D1300682888"
+            BuildableName = "iOSTest.app"
+            BlueprintName = "iOSTest"
+            ReferencedContainer = "container:iOSTest.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
